@@ -1,6 +1,6 @@
 # Css Battle is fun to solve
 
-I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here are my solutions. I highly recommend trying to solve this before seeing my solutions.
+I try to solve [Cssbattle](https://cssbattle.dev/) problems easy way and here are my solutions. I highly recommend trying to solve this before seeing my solutions.
 
 ## Table of contents
 
