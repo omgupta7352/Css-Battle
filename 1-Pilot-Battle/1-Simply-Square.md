@@ -9,13 +9,13 @@
 ```html
 <div></div>
 <style>
-  body {
-    background: #5d3a3a;
+  * {
     margin: 0;
+    background: #5d3a3a;
   }
   div {
-    width: 200;
-    height: 200;
+    width: 200px;
+    height: 200px;
     background: #b5e0ba;
   }
 </style>
