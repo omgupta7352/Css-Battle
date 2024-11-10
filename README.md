@@ -10,3 +10,5 @@ I try to solve [Cssbattle](https://cssbattle.dev/) problems easy way and here ar
 
 - [#1 - Simply Square](https://github.com/omgupta7352/Css-Battle/blob/main/1-Pilot-Battle/1-Simply-Square.md)
 - [#2 - Carrom](https://github.com/omgupta7352/Css-Battle/blob/main/1-Pilot-Battle/2-Carrom.md)
+- [#3 - Push Button](https://github.com/omgupta7352/Css-Battle/blob/main/1-Pilot-Battle/3-Push-Buutton.md)
+- [#4 - Ups n Down](https://github.com/omgupta7352/Css-Battle/blob/main/1-Pilot-Battle/4-Ups-n-Down.md)
