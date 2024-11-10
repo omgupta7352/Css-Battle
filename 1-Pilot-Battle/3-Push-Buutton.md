@@ -6,7 +6,8 @@
 
 ![target](https://cssbattle.dev/targets/3.png)
 
-```html
+```
+html
 <div class="wrapper">
   <div class="circle outer"></div>
   <div class="circle center"></div>
