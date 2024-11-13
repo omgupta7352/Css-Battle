@@ -14,3 +14,6 @@ I try to solve [Cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [#4 - Ups n Down](https://github.com/omgupta7352/Css-Battle/blob/main/1-Pilot-Battle/4-Ups-n-Down.md)
 - [#5 - Acid Rain](https://github.com/omgupta7352/Css-Battle/blob/main/1-Pilot-Battle/5-Acid-Rain.md)
 - [#6 - Missing Slice](https://github.com/omgupta7352/Css-Battle/blob/main/1-Pilot-Battle/6-Missing-Slice.md)
+- [#7 - Leafly Trail](https://github.com/omgupta7352/Css-Battle/blob/main/1-Pilot-Battle/7-Leafy-Trail.md)
+- [#8 - Forking Crazy](https://github.com/omgupta7352/Css-Battle/blob/main/1-Pilot-Battle/8-Forking-Crazy.md)
+
