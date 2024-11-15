@@ -34,5 +34,4 @@
     box-shadow: 0 0 0 20px #0b2429;
   }
 </style>
-
 ```
