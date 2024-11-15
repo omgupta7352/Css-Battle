@@ -40,5 +40,4 @@
     border-bottom-left-radius: 75px;
   }
 </style>
-
 ```
