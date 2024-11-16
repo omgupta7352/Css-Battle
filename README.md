@@ -16,4 +16,9 @@ I try to solve [Cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [#6 - Missing Slice](https://github.com/omgupta7352/Css-Battle/blob/main/1-Pilot-Battle/6-Missing-Slice.md)
 - [#7 - Leafly Trail](https://github.com/omgupta7352/Css-Battle/blob/main/1-Pilot-Battle/7-Leafy-Trail.md)
 - [#8 - Forking Crazy](https://github.com/omgupta7352/Css-Battle/blob/main/1-Pilot-Battle/8-Forking-Crazy.md)
+- [#9 - Tesseract](https://github.com/omgupta7352/Css-Battle/blob/main/1-Pilot-Battle/9-Tesseract.md)
+- [#10 - Cloaked Spirits](https://github.com/omgupta7352/Css-Battle/blob/main/1-Pilot-Battle/10-Cloaked-Spirits.md)
+- [#11 - Eye of Sauron](https://github.com/omgupta7352/Css-Battle/blob/main/1-Pilot-Battle/11-Eye-of-Sauron.md)
+- [#12 - Wiggly Moustache](https://github.com/omgupta7352/Css-Battle/blob/main/1-Pilot-Battle/12-Wiggly-Moustache.md)
+
 
