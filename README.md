@@ -8,6 +8,10 @@ I try to solve [Cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [Battle #2 - Visibility](#battle-2---visibility)
 - [Battle #3 - Cursor](#battle-3---cursor)
 - [Battle #4 - Display](#battle-4---display)
+- [Battle #5 - Inline](#battle-5---inline)
+- [Battle #6 - Conic](#battle-6---conic)
+- [Battle #7 - Backface](#battle-7---backface)
+- [Battle #8 - Transition](#battle-8---transition)
 
 ## Battle #1 - Pilot Battle
 
