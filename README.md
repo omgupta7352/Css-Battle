@@ -43,3 +43,9 @@ I try to solve [Cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [#20 - Ticket](https://github.com/omgupta7352/Css-Battle/blob/main/3-Cursor/20-Ticket.md)
 
 ## Battle #4 - Display
+
+
+## Battle #5 - Inline
+
+
+## Battle #6 - Conic
