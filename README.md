@@ -5,6 +5,9 @@ I try to solve [Cssbattle](https://cssbattle.dev/) problems easy way and here ar
 ## Table of contents
 
 - [Battle #1 - Pilot Battle](#battle-1---pilot-battle)
+- [Battle #2 - Visibility](#battle-2---visibility)
+- [Battle #3 - Cursor](#battle-3---cursor)
+- [Battle #4 - Display](#battle-4---display)
 
 ## Battle #1 - Pilot Battle
 
@@ -20,13 +23,19 @@ I try to solve [Cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [#10 - Cloaked Spirits](https://github.com/omgupta7352/Css-Battle/blob/main/1-Pilot-Battle/10-Cloaked-Spirits.md)
 - [#11 - Eye of Sauron](https://github.com/omgupta7352/Css-Battle/blob/main/1-Pilot-Battle/11-Eye-of-Sauron.md)
 - [#12 - Wiggly Moustache](https://github.com/omgupta7352/Css-Battle/blob/main/1-Pilot-Battle/12-Wiggly-Moustache.md)
+
+## Battle #2 - Visibility
+  
 - [#13 - Totally Triangle](https://github.com/omgupta7352/Css-Battle/blob/main/2-Visibility/13-Totally-Triangle.md)
 - [#14 - Web Maker Logo](https://github.com/omgupta7352/Css-Battle/blob/main/2-Visibility/14-Web-Maker-Logo.md)
 - [#15 - Overlap](https://github.com/omgupta7352/Css-Battle/blob/main/2-Visibility/15-Overlap.md)
 - [#16 - Eye of The Tiger](https://github.com/omgupta7352/Css-Battle/blob/main/2-Visibility/16-Eye-of-the-Tiger.md)
 - [#17 - Fidget Spinner](https://github.com/omgupta7352/Css-Battle/blob/main/2-Visibility/17-Fidget-Spinner.md)
 - [#18 - Matrix](https://github.com/omgupta7352/Css-Battle/blob/main/2-Visibility/18-Matrix.md)
+
+## Battle #3 - Cursor
+
 - [#19 - Cube](https://github.com/omgupta7352/Css-Battle/blob/main/3-Cursor/19-Cube.md)
 - [#20 - Ticket](https://github.com/omgupta7352/Css-Battle/blob/main/3-Cursor/20-Ticket.md)
 
-
+## Battle #4 - Display
