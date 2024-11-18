@@ -44,6 +44,10 @@ I try to solve [Cssbattle](https://cssbattle.dev/) problems easy way and here ar
 
 ## Battle #4 - Display
 
+- [#21 - SitePoint Logo](https://github.com/omgupta7352/Css-Battle/blob/main/4-Display/21-SitePoint-Logo.md)
+- [#22 - Cloud](https://github.com/omgupta7352/Css-Battle/blob/main/4-Display/22-Cloud.md)
+- [#23 - Boxception](https://github.com/omgupta7352/Css-Battle/blob/main/4-Display/23-Boxception.md)
+- [#24 - Switches](https://github.com/omgupta7352/Css-Battle/blob/main/4-Display/24-Switches.md)
 
 ## Battle #5 - Inline
 
