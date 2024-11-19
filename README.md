@@ -48,6 +48,10 @@ I try to solve [Cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [#22 - Cloud](https://github.com/omgupta7352/Css-Battle/blob/main/4-Display/22-Cloud.md)
 - [#23 - Boxception](https://github.com/omgupta7352/Css-Battle/blob/main/4-Display/23-Boxception.md)
 - [#24 - Switches](https://github.com/omgupta7352/Css-Battle/blob/main/4-Display/24-Switches.md)
+- [#25 - Blossom](https://github.com/omgupta7352/Css-Battle/blob/main/4-Display/25-Blossom.md)
+- [#26 - Smiley](https://github.com/omgupta7352/Css-Battle/blob/main/4-Display/26-Smiley.md)
+- [#23 - Lock Up](https://github.com/omgupta7352/Css-Battle/blob/main/4-Display/27-Lock-Up.md)
+- [#24 - Cups & Balls](https://github.com/omgupta7352/Css-Battle/blob/main/4-Display/28-Cups-%26-Balls.md)
 
 ## Battle #5 - Inline
 
