@@ -50,10 +50,12 @@ I try to solve [Cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [#24 - Switches](https://github.com/omgupta7352/Css-Battle/blob/main/4-Display/24-Switches.md)
 - [#25 - Blossom](https://github.com/omgupta7352/Css-Battle/blob/main/4-Display/25-Blossom.md)
 - [#26 - Smiley](https://github.com/omgupta7352/Css-Battle/blob/main/4-Display/26-Smiley.md)
-- [#23 - Lock Up](https://github.com/omgupta7352/Css-Battle/blob/main/4-Display/27-Lock-Up.md)
-- [#24 - Cups & Balls](https://github.com/omgupta7352/Css-Battle/blob/main/4-Display/28-Cups-%26-Balls.md)
+- [#27 - Lock Up](https://github.com/omgupta7352/Css-Battle/blob/main/4-Display/27-Lock-Up.md)
+- [#28 - Cups & Balls](https://github.com/omgupta7352/Css-Battle/blob/main/4-Display/28-Cups-%26-Balls.md)
 
 ## Battle #5 - Inline
 
+- [#29 - Suffocate](https://github.com/omgupta7352/Css-Battle/blob/main/5-Inline/29-Suffocate.md)
+- [#30 - Horizon](https://github.com/omgupta7352/Css-Battle/blob/main/5-Inline/30-Horizon.md)
 
 ## Battle #6 - Conic
