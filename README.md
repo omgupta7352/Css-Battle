@@ -59,3 +59,7 @@ I try to solve [Cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [#30 - Horizon](https://github.com/omgupta7352/Css-Battle/blob/main/5-Inline/30-Horizon.md)
 
 ## Battle #6 - Conic
+
+- [#31 - Equals](https://github.com/omgupta7352/Css-Battle/blob/main/6-Conic/31-Equals.md)
+- [#32 - Band aid](https://github.com/omgupta7352/Css-Battle/blob/main/6-Conic/32-Band-aid.md)
+
