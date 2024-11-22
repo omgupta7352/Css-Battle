@@ -63,3 +63,14 @@ I try to solve [Cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [#31 - Equals](https://github.com/omgupta7352/Css-Battle/blob/main/6-Conic/31-Equals.md)
 - [#32 - Band aid](https://github.com/omgupta7352/Css-Battle/blob/main/6-Conic/32-Band-aid.md)
 
+## Battle #7 - Backface
+
+- [#33 - Birdie](https://github.com/omgupta7352/Css-Battle/blob/main/7-Backface/33-Birdie.md)
+- [#34 - Christmas Tree](https://github.com/omgupta7352/Css-Battle/blob/main/7-Backface/34-Christmas-Tree.md)
+- [#35 - Ice Cream](https://github.com/omgupta7352/Css-Battle/blob/main/6-Conic/31-Equals.md)
+- [#36 - Interleaved](https://github.com/omgupta7352/Css-Battle/blob/main/6-Conic/32-Band-aid.md)
+- [#37 - Tunnel](https://github.com/omgupta7352/Css-Battle/blob/main/6-Conic/31-Equals.md)
+- [#38 - Not Simply Suare](https://github.com/omgupta7352/Css-Battle/blob/main/6-Conic/32-Band-aid.md)
+- [#39 - Suunset](https://github.com/omgupta7352/Css-Battle/blob/main/6-Conic/31-Equals.md)
+- [#40 - Letter B](https://github.com/omgupta7352/Css-Battle/blob/main/6-Conic/32-Band-aid.md)
+- [#41 - Fox Head](https://github.com/omgupta7352/Css-Battle/blob/main/6-Conic/31-Equals.md)
