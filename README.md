@@ -72,18 +72,9 @@ I try to solve [Cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [#37 - Tunnel](https://github.com/omgupta7352/Css-Battle/blob/main/7-Backface/37-Tunnel.md)
 - [#38 - Not Simply Suare](https://github.com/omgupta7352/Css-Battle/blob/main/7-Backface/38-Not-Simply-Square.md)
 - [#39 - Suunset](https://github.com/omgupta7352/Css-Battle/blob/main/7-Backface/39-Sunset.md)
-- [#40 - Letter B](https://github.com/omgupta7352/Css-Battle/blob/main/6-Conic/32-Band-aid.md)
-- [#41 - Fox Head](https://github.com/omgupta7352/Css-Battle/blob/main/6-Conic/31-Equals.md)
+- [#40 - Letter B](https://github.com/omgupta7352/Css-Battle/blob/main/7-Backface/40-Letter-B.md)
+- [#41 - Fox Head](https://github.com/omgupta7352/Css-Battle/blob/main/7-Backface/41-Fox-Head.md)
 
-## Battle #7 - Backface
+## Battle #8 - Transition
 
-- [#33 - Birdie](https://github.com/omgupta7352/Css-Battle/blob/main/7-Backface/33-Birdie.md)
-- [#34 - Christmas Tree](https://github.com/omgupta7352/Css-Battle/blob/main/7-Backface/34-Christmas-Tree.md)
-- [#35 - Ice Cream](https://github.com/omgupta7352/Css-Battle/blob/main/7-Backface/35-Ice-Cream.md)
-- [#36 - Interleaved](https://github.com/omgupta7352/Css-Battle/blob/main/7-Backface/36-Interleaved.md)
-- [#37 - Tunnel](https://github.com/omgupta7352/Css-Battle/blob/main/7-Backface/37-Tunnel.md)
-- [#38 - Not Simply Suare](https://github.com/omgupta7352/Css-Battle/blob/main/7-Backface/38-Not-Simply-Square.md)
-- [#39 - Suunset](https://github.com/omgupta7352/Css-Battle/blob/main/7-Backface/39-Sunset.md)
-- [#40 - Letter B](https://github.com/omgupta7352/Css-Battle/blob/main/6-Conic/32-Band-aid.md)
-- [#41 - Fox Head](https://github.com/omgupta7352/Css-Battle/blob/main/6-Conic/31-Equals.md)
 
