@@ -14,6 +14,10 @@ I try to solve [Cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [Battle #8 - Transition](#battle-8---transition)
 - [Battle #9 - Margin](#battle-9---margin)
 - [Battle #10 - Block](#battle-10---block)
+- [Battle #11 - Overflow](#battle-11---overflow)
+- [Battle #12 - Blend](#battle-12---blend)
+- [Battle #13 - Clip](#battle-13---clip)
+- [Battle #14 - ZIndex](#battle-14---zindex)
 
 ## Battle #1 - Pilot Battle
 
