@@ -18,6 +18,22 @@ I try to solve [Cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [Battle #12 - Blend](#battle-12---blend)
 - [Battle #13 - Clip](#battle-13---clip)
 - [Battle #14 - ZIndex](#battle-14---zindex)
+- [Battle #15 - Filter](#battle-15---filter)
+- [Battle #16 - Aspect](#battle-16---aspect)
+- [Battle #17 - Christmas](#battle-17---christmas)
+- [Battle #18 - Float](#battle-18---float)
+- [Battle #19 - Spacing](#battle-19---spacing)
+- [Battle #20 - Hover](#battle-20---hover)
+- [Battle #21 - Rotate](#battle-21---rotate)
+- [Battle #22 - Grid](#battle-22---grid)
+- [Battle #23 - Contain](#battle-23---contain)
+- [Battle #24 - Offfset](#battle-24---offset)
+- [Battle #25 - Flex](#battle-25---flex)
+- [Battle #26 - Initial](#battle-26---initial)
+- [Battle #27 - Relative](#battle-27---relative)
+- [Battle #28 - Revert](#battle-28---revert)
+- [Battle #29 - Font](#battle-29---font)
+- [Battle #30 - Gradient](#battle-30---gradient)
 
 ## Battle #1 - Pilot Battle
 
