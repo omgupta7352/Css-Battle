@@ -77,4 +77,7 @@ I try to solve [Cssbattle](https://cssbattle.dev/) problems easy way and here ar
 
 ## Battle #8 - Transition
 
+- [#42 - Baby](https://github.com/omgupta7352/Css-Battle/blob/main/8-Transition/42-Baby.md)
+- [#43- Wrench](https://github.com/omgupta7352/Css-Battle/blob/main/8-Transition/43-Wrench.md)
+- [#44 - Stripes](https://github.com/omgupta7352/Css-Battle/blob/main/8-Transition/44-Stripes.md)
 
