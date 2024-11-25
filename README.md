@@ -12,6 +12,8 @@ I try to solve [Cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [Battle #6 - Conic](#battle-6---conic)
 - [Battle #7 - Backface](#battle-7---backface)
 - [Battle #8 - Transition](#battle-8---transition)
+- [Battle #9 - Margin](#battle-9---margin)
+- [Battle #10 - Block](#battle-10---block)
 
 ## Battle #1 - Pilot Battle
 
@@ -80,4 +82,8 @@ I try to solve [Cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [#42 - Baby](https://github.com/omgupta7352/Css-Battle/blob/main/8-Transition/42-Baby.md)
 - [#43- Wrench](https://github.com/omgupta7352/Css-Battle/blob/main/8-Transition/43-Wrench.md)
 - [#44 - Stripes](https://github.com/omgupta7352/Css-Battle/blob/main/8-Transition/44-Stripes.md)
+
+## Battle #9 - Margin
+
+## Battle #10 - Block
 
