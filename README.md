@@ -100,10 +100,13 @@ I try to solve [Cssbattle](https://cssbattle.dev/) problems easy way and here ar
 ## Battle #8 - Transition
 
 - [#42 - Baby](https://github.com/omgupta7352/Css-Battle/blob/main/8-Transition/42-Baby.md)
-- [#43- Wrench](https://github.com/omgupta7352/Css-Battle/blob/main/8-Transition/43-Wrench.md)
+- [#43 - Wrench](https://github.com/omgupta7352/Css-Battle/blob/main/8-Transition/43-Wrench.md)
 - [#44 - Stripes](https://github.com/omgupta7352/Css-Battle/blob/main/8-Transition/44-Stripes.md)
 
 ## Battle #9 - Margin
+
+- [#45 - Magical Tree](https://github.com/omgupta7352/Css-Battle/blob/main/9-Margin/45-Magical-Tree.md)
+- [#46 - Mountains](https://github.com/omgupta7352/Css-Battle/blob/main/9-Margin/46-Montains.md)
 
 ## Battle #10 - Block
 
