@@ -110,6 +110,11 @@ I try to solve [Cssbattle](https://cssbattle.dev/) problems easy way and here ar
 
 ## Battle #10 - Block
 
+- [#47 - Corona Virus](https://github.com/omgupta7352/Css-Battle/blob/main/10-Block/47-Corona-Virus.md)
+- [#48 - Wash Your Hand](https://github.com/omgupta7352/Css-Battle/blob/main/10-Block/48-Wash-Your-Hand.md)
+- [#49 - Stay at Home](https://github.com/omgupta7352/Css-Battle/blob/main/10-Block/49-Stay-at-Home.md)
+- [#50 - Use Hand Sanitizer](https://github.com/omgupta7352/Css-Battle/blob/main/10-Block/50-Use-Hand-Sanitizer.md)
+
 ## Battle #11 - Overflow
 
 ## Battle #12 - Blend
