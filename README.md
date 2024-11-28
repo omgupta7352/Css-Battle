@@ -114,6 +114,8 @@ I try to solve [Cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [#48 - Wash Your Hand](https://github.com/omgupta7352/Css-Battle/blob/main/10-Block/48-Wash-Your-Hand.md)
 - [#49 - Stay at Home](https://github.com/omgupta7352/Css-Battle/blob/main/10-Block/49-Stay-at-Home.md)
 - [#50 - Use Hand Sanitizer](https://github.com/omgupta7352/Css-Battle/blob/main/10-Block/50-Use-Hand-Sanitizer.md)
+- [#51 - Wear a Mask](https://github.com/omgupta7352/Css-Battle/blob/main/10-Block/51-Wear-a-Mask.md)
+- [#52 - Break the chain](https://github.com/omgupta7352/Css-Battle/blob/main/10-Block/52-Break-the-Chain.md)
 
 ## Battle #11 - Overflow
 
