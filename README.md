@@ -123,6 +123,10 @@ I try to solve [Cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [#54 - Black Lives Matter](https://github.com/omgupta7352/Css-Battle/blob/main/11-Overflow/54-Black-Lives-Matter.md)
 - [#55 - Windmill](https://github.com/omgupta7352/Css-Battle/blob/main/11-Overflow/55-Windmill.md)
 - [#56 - Skull](https://github.com/omgupta7352/Css-Battle/blob/main/11-Overflow/56-Skull.md)
+- [#57 - Pillars](https://github.com/omgupta7352/Css-Battle/blob/main/11-Overflow/57-Pillars.md)
+- [#58 - Rose](https://github.com/omgupta7352/Css-Battle/blob/main/11-Overflow/58-Rose.md)
+- [#59 - Earth](https://github.com/omgupta7352/Css-Battle/blob/main/11-Overflow/59-Earth.md)
+- [#60 - Evil Triangles](https://github.com/omgupta7352/Css-Battle/blob/main/11-Overflow/60-Evil-Triangles.md)
 
 ## Battle #12 - Blend
 
