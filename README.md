@@ -130,6 +130,11 @@ I try to solve [Cssbattle](https://cssbattle.dev/) problems easy way and here ar
 
 ## Battle #12 - Blend
 
+- [#61 - ImprovMX](https://github.com/omgupta7352/Css-Battle/blob/main/12-Blend/61-ImprovMX.md)
+- [#62 - Sunset](https://github.com/omgupta7352/Css-Battle/blob/main/12-Blend/62-Sunset.md)
+- [#63 - Command Key](https://github.com/omgupta7352/Css-Battle/blob/main/12-Blend/63-Command-Key.md)
+- [#64 - Door Knob](https://github.com/omgupta7352/Css-Battle/blob/main/12-Blend/64-Door-Knob.md)
+
 ## Battle #13 - Clip
 
 ## Battle #14 - ZIndex
