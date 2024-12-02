@@ -134,6 +134,10 @@ I try to solve [Cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [#62 - Sunset](https://github.com/omgupta7352/Css-Battle/blob/main/12-Blend/62-Sunset.md)
 - [#63 - Command Key](https://github.com/omgupta7352/Css-Battle/blob/main/12-Blend/63-Command-Key.md)
 - [#64 - Door Knob](https://github.com/omgupta7352/Css-Battle/blob/main/12-Blend/64-Door-Knob.md)
+- [#65 - Max Volume](https://github.com/omgupta7352/Css-Battle/blob/main/12-Blend/65-Max-Volme.md)
+- [#66 - Batmicky](https://github.com/omgupta7352/Css-Battle/blob/main/12-Blend/66-Batmicky.md)
+- [#67 - Video Reel](https://github.com/omgupta7352/Css-Battle/blob/main/12-Blend/67-Video-Reel.md)
+- [#68 - Bell](https://github.com/omgupta7352/Css-Battle/blob/main/12-Blend/68-Bell.md)
 
 ## Battle #13 - Clip
 
