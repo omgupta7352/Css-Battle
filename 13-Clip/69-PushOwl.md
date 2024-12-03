@@ -1,6 +1,6 @@
 # Battle #13 - Clip
 
-## #69 - PushOwl (99.9%)
+## #69 - PushOwl
 
 [Link to the problem](https://cssbattle.dev/play/69)
 
