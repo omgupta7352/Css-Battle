@@ -6,8 +6,7 @@
 
 ![target](https://cssbattle.dev/targets/1.png)
 
-```
-html
+```html
 <div></div>
 <style>
   * {
