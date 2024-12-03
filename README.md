@@ -141,11 +141,43 @@ I try to solve [Cssbattle](https://cssbattle.dev/) problems easy way and here ar
 
 ## Battle #13 - Clip
 
+- [#69 - PushOwl](https://github.com/omgupta7352/Css-Battle/blob/main/13-Clip/69-PushOwl.md)
+- [#70 - Froggy](https://github.com/omgupta7352/Css-Battle/blob/main/13-Clip/70-Froggy.md)
+- [#71 - Elephant](https://github.com/omgupta7352/Css-Battle/blob/main/13-Clip/71-Elephant.md)
+- [#72 - Sheep](https://github.com/omgupta7352/Css-Battle/blob/main/13-Clip/72-Sheep.md)
+- [#73 - Happy Tiger]()
+- [#74 - Danger Noodle]()
+- [#75 - Hippo]()
+- [#76 - Beeee]()
+
 ## Battle #14 - ZIndex
+
+- [#77 - Notes]()
+- [#78 - UUkulele]()
+- [#79 - Tambourine]()
+- [#80 - Piano]()
 
 ## Battle #15 - Filter
 
+- [#81 - Odoo]()
+- [#82 - Diamond Cut]()
+- [#83 - Supernova]()
+- [#84 - Junction]()
+- [#85 - Pythagoras]()
+- [#86 - Stairway]()
+- [#87 - Building Blocks]()
+- [#88 - Tight Corner]()
+
 ## Battle #16 - Aspect
+
+- [#89 - Summit]()
+- [#90 - Eclipse]()
+- [#91 - Reflection]()
+- [#92 - Squeeze]()
+- [#93 - Great Wall]()
+- [#94 - Ripples]()
+- [#95 - Pokeball]()
+- [#96 - Mandala]()
 
 ## Battle #17 - Christmas
 
