@@ -181,6 +181,11 @@ I try to solve [Cssbattle](https://cssbattle.dev/) problems easy way and here ar
 
 ## Battle #17 - Christmas
 
+- [#97 - Snowman]()
+- [#98 - Candle]()
+- [#99 - Gift Box]()
+- [#100 - CSSBattle]()
+
 ## Battle #18 - Float
 
 ## Battle #19 - Spacing
