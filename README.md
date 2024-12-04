@@ -145,10 +145,10 @@ I try to solve [Cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [#70 - Froggy](https://github.com/omgupta7352/Css-Battle/blob/main/13-Clip/70-Froggy.md)
 - [#71 - Elephant](https://github.com/omgupta7352/Css-Battle/blob/main/13-Clip/71-Elephant.md)
 - [#72 - Sheep](https://github.com/omgupta7352/Css-Battle/blob/main/13-Clip/72-Sheep.md)
-- [#73 - Happy Tiger]()
-- [#74 - Danger Noodle]()
-- [#75 - Hippo]()
-- [#76 - Beeee]()
+- [#73 - Happy Tiger](https://github.com/omgupta7352/Css-Battle/blob/main/13-Clip/73-Happy-Tiger.md)
+- [#74 - Danger Noodle](https://github.com/omgupta7352/Css-Battle/blob/main/13-Clip/74-Danger-Noodle.md)
+- [#75 - Hippo](https://github.com/omgupta7352/Css-Battle/blob/main/13-Clip/75-Hippo.md)
+- [#76 - Beeee](https://github.com/omgupta7352/Css-Battle/blob/main/13-Clip/76-Beeee.md)
 
 ## Battle #14 - ZIndex
 
