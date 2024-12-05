@@ -152,10 +152,10 @@ I try to solve [Cssbattle](https://cssbattle.dev/) problems easy way and here ar
 
 ## Battle #14 - ZIndex
 
-- [#77 - Notes]()
-- [#78 - UUkulele]()
-- [#79 - Tambourine]()
-- [#80 - Piano]()
+- [#77 - Notes](https://github.com/omgupta7352/Css-Battle/blob/main/14-ZIndex/77-Notes.md)
+- [#78 - UUkulele](https://github.com/omgupta7352/Css-Battle/blob/main/14-ZIndex/78-Ukulele.md)
+- [#79 - Tambourine](https://github.com/omgupta7352/Css-Battle/blob/main/14-ZIndex/79-Tambourine.md)
+- [#80 - Piano](https://github.com/omgupta7352/Css-Battle/blob/main/14-ZIndex/80-Piano.md)
 
 ## Battle #15 - Filter
 
