@@ -159,10 +159,10 @@ I try to solve [Cssbattle](https://cssbattle.dev/) problems easy way and here ar
 
 ## Battle #15 - Filter
 
-- [#81 - Odoo]()
-- [#82 - Diamond Cut]()
-- [#83 - Supernova]()
-- [#84 - Junction]()
+- [#81 - Odoo](https://github.com/omgupta7352/Css-Battle/blob/main/15-Filter/81-Odoo.md)
+- [#82 - Diamond Cut](https://github.com/omgupta7352/Css-Battle/blob/main/15-Filter/82-Diamond-Cut.md)
+- [#83 - Supernova](https://github.com/omgupta7352/Css-Battle/blob/main/15-Filter/83-Supernova.md)
+- [#84 - Junction](https://github.com/omgupta7352/Css-Battle/blob/main/15-Filter/84-Junction.md)
 - [#85 - Pythagoras]()
 - [#86 - Stairway]()
 - [#87 - Building Blocks]()
