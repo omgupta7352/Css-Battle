@@ -163,10 +163,10 @@ I try to solve [Cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [#82 - Diamond Cut](https://github.com/omgupta7352/Css-Battle/blob/main/15-Filter/82-Diamond-Cut.md)
 - [#83 - Supernova](https://github.com/omgupta7352/Css-Battle/blob/main/15-Filter/83-Supernova.md)
 - [#84 - Junction](https://github.com/omgupta7352/Css-Battle/blob/main/15-Filter/84-Junction.md)
-- [#85 - Pythagoras]()
-- [#86 - Stairway]()
-- [#87 - Building Blocks]()
-- [#88 - Tight Corner]()
+- [#85 - Pythagoras](https://github.com/omgupta7352/Css-Battle/blob/main/15-Filter/85-Pythagoras.md)
+- [#86 - Stairway](https://github.com/omgupta7352/Css-Battle/blob/main/15-Filter/86-Stairway.md)
+- [#87 - Building Blocks](https://github.com/omgupta7352/Css-Battle/blob/main/15-Filter/87-Builing-Blocks.md)
+- [#88 - Tight Corner](https://github.com/omgupta7352/Css-Battle/blob/main/15-Filter/88-Tight-Corner.md)
 
 ## Battle #16 - Aspect
 
