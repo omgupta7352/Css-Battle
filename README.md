@@ -170,10 +170,10 @@ I try to solve [Cssbattle](https://cssbattle.dev/) problems easy way and here ar
 
 ## Battle #16 - Aspect
 
-- [#89 - Summit]()
-- [#90 - Eclipse]()
-- [#91 - Reflection]()
-- [#92 - Squeeze]()
+- [#89 - Summit](https://github.com/omgupta7352/Css-Battle/blob/main/16-Aspect/89-Summit.md)
+- [#90 - Eclipse](https://github.com/omgupta7352/Css-Battle/blob/main/16-Aspect/90-Eclipse.md)
+- [#91 - Reflection](https://github.com/omgupta7352/Css-Battle/blob/main/16-Aspect/91-Reflection.md)
+- [#92 - Squeeze](https://github.com/omgupta7352/Css-Battle/blob/main/16-Aspect/92-Squeeze.md)
 - [#93 - Great Wall]()
 - [#94 - Ripples]()
 - [#95 - Pokeball]()
