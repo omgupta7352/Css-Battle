@@ -174,10 +174,10 @@ I try to solve [Cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [#90 - Eclipse](https://github.com/omgupta7352/Css-Battle/blob/main/16-Aspect/90-Eclipse.md)
 - [#91 - Reflection](https://github.com/omgupta7352/Css-Battle/blob/main/16-Aspect/91-Reflection.md)
 - [#92 - Squeeze](https://github.com/omgupta7352/Css-Battle/blob/main/16-Aspect/92-Squeeze.md)
-- [#93 - Great Wall]()
-- [#94 - Ripples]()
-- [#95 - Pokeball]()
-- [#96 - Mandala]()
+- [#93 - Great Wall](https://github.com/omgupta7352/Css-Battle/blob/main/16-Aspect/93-Great-Wall.md)
+- [#94 - Ripples](https://github.com/omgupta7352/Css-Battle/blob/main/16-Aspect/94-Ripples.md)
+- [#95 - Pokeball](https://github.com/omgupta7352/Css-Battle/blob/main/16-Aspect/95-Pokeball.md)
+- [#96 - Mandala](https://github.com/omgupta7352/Css-Battle/blob/main/16-Aspect/96-Mandala.md)
 
 ## Battle #17 - Christmas
 
