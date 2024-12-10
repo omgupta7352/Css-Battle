@@ -181,10 +181,10 @@ I try to solve [Cssbattle](https://cssbattle.dev/) problems easy way and here ar
 
 ## Battle #17 - Christmas
 
-- [#97 - Snowman]()
-- [#98 - Candle]()
-- [#99 - Gift Box]()
-- [#100 - CSSBattle]()
+- [#97 - Snowman](https://github.com/omgupta7352/Css-Battle/blob/main/17-Christmas/97-Snowman.md)
+- [#98 - Candle](https://github.com/omgupta7352/Css-Battle/blob/main/17-Christmas/98-Candle.md)
+- [#99 - Gift Box](https://github.com/omgupta7352/Css-Battle/blob/main/17-Christmas/99-Gift-Box.md)
+- [#100 - CSSBattle](https://github.com/omgupta7352/Css-Battle/blob/main/17-Christmas/100-CSSBattle.md)
 
 ## Battle #18 - Float
 
