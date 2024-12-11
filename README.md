@@ -188,10 +188,10 @@ I try to solve [Cssbattle](https://cssbattle.dev/) problems easy way and here ar
 
 ## Battle #18 - Float
 
-- [#101 - Sharingan]()
-- [#102 - One Piece]()
-- [#103 - Super Saiyan]()
-- [#104 - Amegakure]()
+- [#101 - Sharingan](https://github.com/omgupta7352/Css-Battle/blob/main/18-Float/101-Sharingan.md)
+- [#102 - One Piece](https://github.com/omgupta7352/Css-Battle/blob/main/18-Float/102-One-Piece.md)
+- [#103 - Super Saiyan](https://github.com/omgupta7352/Css-Battle/blob/main/18-Float/103-Super-Saiyan.md)
+- [#104 - Amegakure](https://github.com/omgupta7352/Css-Battle/blob/main/18-Float/104-Amegakure.md)
 - [#105 - Ryuk]()
 - [#106 - Ryuk's Apple]()
 - [#107 - Sealing wand]()
