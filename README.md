@@ -192,10 +192,10 @@ I try to solve [Cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [#102 - One Piece](https://github.com/omgupta7352/Css-Battle/blob/main/18-Float/102-One-Piece.md)
 - [#103 - Super Saiyan](https://github.com/omgupta7352/Css-Battle/blob/main/18-Float/103-Super-Saiyan.md)
 - [#104 - Amegakure](https://github.com/omgupta7352/Css-Battle/blob/main/18-Float/104-Amegakure.md)
-- [#105 - Ryuk]()
-- [#106 - Ryuk's Apple]()
-- [#107 - Sealing wand]()
-- [#108 - Clow Card]()
+- [#105 - Ryuk](https://github.com/omgupta7352/Css-Battle/blob/main/18-Float/105-Ryuk.md)
+- [#106 - Ryuk's Apple](https://github.com/omgupta7352/Css-Battle/blob/main/18-Float/106-Ryuk's-Apple.md)
+- [#107 - Sealing wand](https://github.com/omgupta7352/Css-Battle/blob/main/18-Float/107-Sealing-Wand.md)
+- [#108 - Clow Card](https://github.com/omgupta7352/Css-Battle/blob/main/18-Float/108-Clow-Card.md)
 
 ## Battle #19 - Spacing
 
