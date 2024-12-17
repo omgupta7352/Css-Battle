@@ -221,10 +221,10 @@ I try to solve [Cssbattle](https://cssbattle.dev/) problems easy way and here ar
 
 ## Battle #21 - Rotate
 
-- [#125 - Root Learn]()
-- [#126 - Letter A]()
-- [#127 - Letter I]()
-- [#128 - Letter N]()
+- [#125 - Root Learn](https://github.com/omgupta7352/Css-Battle/blob/main/21-Rotate/125-Root-Learn.md)
+- [#126 - Letter A](https://github.com/omgupta7352/Css-Battle/blob/main/21-Rotate/126-Letter-A.md)
+- [#127 - Letter I](https://github.com/omgupta7352/Css-Battle/blob/main/21-Rotate/127-Letter-I.md)
+- [#128 - Letter N](https://github.com/omgupta7352/Css-Battle/blob/main/21-Rotate/128-Letter-N.md)
 - [#129 - Letter B]()
 - [#130 - Letter O]()
 - [#131 - Letter W]()
