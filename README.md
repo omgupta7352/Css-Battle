@@ -225,10 +225,10 @@ I try to solve [Cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [#126 - Letter A](https://github.com/omgupta7352/Css-Battle/blob/main/21-Rotate/126-Letter-A.md)
 - [#127 - Letter I](https://github.com/omgupta7352/Css-Battle/blob/main/21-Rotate/127-Letter-I.md)
 - [#128 - Letter N](https://github.com/omgupta7352/Css-Battle/blob/main/21-Rotate/128-Letter-N.md)
-- [#129 - Letter B]()
-- [#130 - Letter O]()
-- [#131 - Letter W]()
-- [#132 - Letter S]()
+- [#129 - Letter B](https://github.com/omgupta7352/Css-Battle/blob/main/21-Rotate/129-Letter-B.md)
+- [#130 - Letter O](https://github.com/omgupta7352/Css-Battle/blob/main/21-Rotate/130-Letter-O.md)
+- [#131 - Letter W](https://github.com/omgupta7352/Css-Battle/blob/main/21-Rotate/131-Letter-W.md)
+- [#132 - Letter S](https://github.com/omgupta7352/Css-Battle/blob/main/21-Rotate/132-Letter-S.md)
 
 ## Battle #22 - Grid
 
