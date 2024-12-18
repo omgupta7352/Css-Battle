@@ -1,6 +1,6 @@
 # Battle #20 - Rotate
 
-## #129 - Letter B
+## #129 - Letter-B
 
 [Link to the problem](https://cssbattle.dev/play/129)
 
