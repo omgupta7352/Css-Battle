@@ -232,10 +232,10 @@ I try to solve [Cssbattle](https://cssbattle.dev/) problems easy way and here ar
 
 ## Battle #22 - Grid
 
-- [#133 - Spiral]()
-- [#134 - Wig]()
-- [#135 - Spikes]()
-- [#136 - Alien Eye]()
+- [#133 - Spiral](https://github.com/omgupta7352/Css-Battle/blob/main/22-Grid/133-Spiral.md)
+- [#134 - Wig](https://github.com/omgupta7352/Css-Battle/blob/main/22-Grid/134-Wig.md)
+- [#135 - Spikes](https://github.com/omgupta7352/Css-Battle/blob/main/22-Grid/135-Spikes.md)
+- [#136 - Alien Eye](https://github.com/omgupta7352/Css-Battle/blob/main/22-Grid/136-Alien-Eye.md)
 - [#137 - Elbow]()
 - [#138 - Lotus]()
 - [#139 - Lamp]()
