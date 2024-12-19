@@ -1,4 +1,4 @@
-# Battle #22 - Rotate
+# Battle #22 -Grid
 
 ## #133 - Spiral
 
