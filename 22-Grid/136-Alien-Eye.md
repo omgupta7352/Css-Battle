@@ -1,10 +1,10 @@
 # Battle #22 - Grid
 
-## #136 - Alen Eye
+## #136 - Alien Eye
 
 [Link to the problem](https://cssbattle.dev/play/136)
 
-![target](https://cssbattle.dev/targets/136png)
+![target](https://cssbattle.dev/targets/136.png)
 
 ```html
 <div>
