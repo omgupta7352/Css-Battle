@@ -236,10 +236,10 @@ I try to solve [Cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [#134 - Wig](https://github.com/omgupta7352/Css-Battle/blob/main/22-Grid/134-Wig.md)
 - [#135 - Spikes](https://github.com/omgupta7352/Css-Battle/blob/main/22-Grid/135-Spikes.md)
 - [#136 - Alien Eye](https://github.com/omgupta7352/Css-Battle/blob/main/22-Grid/136-Alien-Eye.md)
-- [#137 - Elbow]()
-- [#138 - Lotus]()
-- [#139 - Lamp]()
-- [#140 - Eclipse]()
+- [#137 - Elbow](https://github.com/omgupta7352/Css-Battle/blob/main/22-Grid/137-Elbow.md)
+- [#138 - Lotus](https://github.com/omgupta7352/Css-Battle/blob/main/22-Grid/138-Lotus.md)
+- [#139 - Lamp](https://github.com/omgupta7352/Css-Battle/blob/main/22-Grid/139-Lamp.md)
+- [#140 - Eclipse](https://github.com/omgupta7352/Css-Battle/blob/main/22-Grid/140-Eclipse.md)
 
 ## Battle #23 - Contain
 
