@@ -243,8 +243,8 @@ I try to solve [Cssbattle](https://cssbattle.dev/) problems easy way and here ar
 
 ## Battle #23 - Contain
 
-- [#141 - Third Eye]()
-- [#142 - Curtains]()
+- [#141 - Third Eye](https://github.com/omgupta7352/Css-Battle/blob/main/23-Contain/141-Third-Eye.md)
+- [#142 - Curtains](https://github.com/omgupta7352/Css-Battle/blob/main/23-Contain/142-Curtains.md)
 
 ## Battle #24 - Offset
 
