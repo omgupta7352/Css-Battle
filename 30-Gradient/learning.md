@@ -22,6 +22,41 @@ body {background: radial-gradient(circle at 25% 33.4%, #D86F45 100px, #F5D6B4 10
 ![target](https://cssbattle.dev/targets/144.png)
 
 ```html
+<div id="topLeft"></div>
+<div id="topRight"></div>
+<div id="bottomLeft"></div>
+<div id="bottomRight"></div>
+<style>
+  body {
+    background: #62306D;
+    display: grid;
+    margin: 0px;
+    grid-template-columns: 75px auto;
+    align-content: end;
+  }
+  div {
+    height: 125px;
+    background: #F7EC7D;
+  }
+  #topLeft {
+    border-radius: 40px 40px 0px 0px;
+  }
+  #bottomLeft {
+    width: 125px;
+    position: absolute;
+    align-self: end;
+  }
+  #bottomRight {
+    height: 75px;
+    width: 200px;
+    border-radius: 0px 40px 40px;
+  }
+  #topRight {
+    background: #62306D;
+    z-index: 1;
+    border-radius: 25px;
+  }
+</style>
 
 ```
 
@@ -989,6 +1024,31 @@ body {background: radial-gradient(circle at 25% 33.4%, #D86F45 100px, #F5D6B4 10
 ![target](https://cssbattle.dev/targets/167.png)
 
 ```html
+<div></div>
+<div id="green"></div>
+<div id="orange"></div>
+<style>
+  body {
+    background: radial-gradient(circle, #73C6EA 20px, #0D1335 20px);
+    display: grid;
+    place-items: center;
+  }
+  div {
+    width: 230px;
+    height: 90px;
+    border: 10px solid #FBFAE2;
+    border-radius: 50%;
+    position: absolute;
+  }
+  #green {
+    rotate: -60deg;
+    border-color: #4FA07B;
+  }
+  #orange {
+    rotate: 60deg;
+    border-color: #DC6638;
+  }
+</style>
 
 ```
 
@@ -1032,6 +1092,25 @@ body {background: radial-gradient(circle at 25% 33.4%, #D86F45 100px, #F5D6B4 10
 ![target](https://cssbattle.dev/targets/169.png)
 
 ```html
+<p></p><p></p>
+<style>
+  * {
+    background: radial-gradient(circle, #4FA07B 55px, 0, #0D1335 65px, 0, #4FA07B 85px, 0, #0D1335 95px, 0, #4FA07B 115px, 0, #0D1335 125px, 0, #4FA07B);
+  }
+  body {
+    background: #FBFAE2;
+    margin: 32px 45px;
+    clip-path: polygon(0 0, 0 100%, 50% 59%, 100% 100%, 100% 0, 50% 41%);
+  }
+  p {
+    position: fixed;
+    inset: 0;
+    clip-path: polygon(55px 34px, 55px 234px, 190px 150px, 166px 134px, 190px 118px);
+  }
+  p + p {
+    scale: -1;
+  }
+</style>
 
 ```
 
@@ -1577,6 +1656,9 @@ body {background: radial-gradient(circle at 25% 33.4%, #D86F45 100px, #F5D6B4 10
 ![target](https://cssbattle.dev/targets/179.png)
 
 ```html
+<style>
+  body {background: linear-gradient(150deg, #14A84A 160px, #F8CD1E 160px 180px, #000000 180px 280px, #F8CD1E 280px 300px, #3B66B0 0);}
+</style>
 
 ```
 
@@ -1590,6 +1672,17 @@ body {background: radial-gradient(circle at 25% 33.4%, #D86F45 100px, #F5D6B4 10
 ![target](https://cssbattle.dev/targets/180.png)
 
 ```html
+<div></div>
+<style>
+  body {margin: 0px;
+    background: linear-gradient(#13AA4B 33.3%, #FFFFFF 33.3% 66.7%, #EC1E25 0%);}
+  div {
+    height: 100px;
+    border-bottom: 100px solid transparent;
+    border-top: 100px solid transparent;
+    border-left: 120px solid;
+  }
+</style>
 
 ```
 
@@ -1603,6 +1696,28 @@ body {background: radial-gradient(circle at 25% 33.4%, #D86F45 100px, #F5D6B4 10
 ![target](https://cssbattle.dev/targets/181.png)
 
 ```html
+<div></div>
+<div long></div>
+<div></div>
+<div long></div>
+<style>
+  body {
+    background: #DE3832;
+    margin: 0px;
+    display: flex;
+    gap: 80px;
+    flex-wrap: wrap;
+  }
+  div {
+    width: 110px;
+    height: 110px;
+    background: #33499F;
+    box-shadow: 0px 0px 0px 15px #FFFFFF;
+  }
+  [long] {
+    width: 210px;
+  }
+</style>
 
 ```
 
@@ -1646,6 +1761,40 @@ body {background: radial-gradient(circle at 25% 33.4%, #D86F45 100px, #F5D6B4 10
 ![target](https://cssbattle.dev/targets/183.png)
 
 ```html
+<div id="yellow"></div>
+<div id="earth">
+  <div id="white"></div>
+</div>
+<style>
+  body {
+    background: #009B3A;
+    display: grid;
+    place-items: center;
+  }
+  #yellow {
+    width: 300px;
+    height: 200px;
+    background: #FEDF00;
+    clip-path: polygon(50% 0, 100% 50%, 50% 100%, 0 50%);
+  }
+  div {
+    position: absolute;
+  }
+  #earth {
+    width: 120px;
+    height: 120px;
+    background: #002776;
+    border-radius: 50%;
+    overflow: hidden;
+  }
+  #white {
+    border: 10px solid #FFFFFF;
+    width: 190px;
+    height: 190px;
+    border-radius: 50%;
+    translate: -73px 30px;
+  }
+</style>
 
 ```
 
