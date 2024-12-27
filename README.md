@@ -299,14 +299,14 @@ I try to solve [Cssbattle](https://cssbattle.dev/) problems easy way and here ar
 
 ## Battle #29 - Font
 
-- [#179 - Tanzania]()
-- [#180 - Kuwait]()
-- [#181 - Iceland]()
-- [#182 - Bahrain]()
-- [#183 - Brazil]()
-- [#184 - India]()
-- [#185 - South Korea]()
-- [#186 - Guernsey]()
+- [#179 - Tanzania](https://github.com/omgupta7352/Css-Battle/blob/main/29-Font/179-Tanzania.md)
+- [#180 - Kuwait](https://github.com/omgupta7352/Css-Battle/blob/main/29-Font/180-Kuwait.md)
+- [#181 - Iceland](https://github.com/omgupta7352/Css-Battle/blob/main/29-Font/181-Iceland.md)
+- [#182 - Bahrain](https://github.com/omgupta7352/Css-Battle/blob/main/29-Font/182-Bahrain.md)
+- [#183 - Brazil](https://github.com/omgupta7352/Css-Battle/blob/main/29-Font/183-Brazil.md)
+- [#184 - India](https://github.com/omgupta7352/Css-Battle/blob/main/29-Font/184-India.md)
+- [#185 - South Korea](https://github.com/omgupta7352/Css-Battle/blob/main/29-Font/185-South-Korea.md)
+- [#186 - Guernsey](https://github.com/omgupta7352/Css-Battle/blob/main/29-Font/186-Guernsey.md)
 
 ## Battle #30 - Gradient
 
