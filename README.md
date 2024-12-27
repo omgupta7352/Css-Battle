@@ -259,12 +259,12 @@ I try to solve [Cssbattle](https://cssbattle.dev/) problems easy way and here ar
 
 ## Battle #25 - Flex
 
-- [#151 - Pawn]()
-- [#152 - Rook]()
-- [#153 - Checkers]()
-- [#154 - Poker Chip]()
+- [#151 - Pawn](https://github.com/omgupta7352/Css-Battle/blob/main/25-Flex/151-Pawn.md)
+- [#152 - Rook]( https://github.com/omgupta7352/Css-Battle/blob/main/25-Flex/152-Rook.md)
+- [#153 - Checkers](https://github.com/omgupta7352/Css-Battle/blob/main/25-Flex/153-Checkers.md)
+- [#154 - Poker Chip](https://github.com/omgupta7352/Css-Battle/blob/main/25-Flex/154-Poker-Chip.md)
 - [#155 - Snakes & Ladders]()
-- [#156 - Chinese Checkers]()
+- [#156 - Chinese Checkers](https://github.com/omgupta7352/Css-Battle/blob/main/25-Flex/156-Chinese-Checkers.md)
 - [#157 - Monopoly]()
 - [#158 - Clubs]()
 
