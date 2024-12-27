@@ -281,10 +281,10 @@ I try to solve [Cssbattle](https://cssbattle.dev/) problems easy way and here ar
 
 ## Battle #27 - Relative
 
-- [#167 - React India]()
-- [#168 - Carpet]()
-- [#169 - Abstract Plate]()
-- [#170 - Party Hat]()
+- [#167 - React India](https://github.com/omgupta7352/Css-Battle/blob/main/27-Relative/167-React-India.md)
+- [#168 - Carpet](https://github.com/omgupta7352/Css-Battle/blob/main/27-Relative/168-Carpet.md)
+- [#169 - Abstract Plate](https://github.com/omgupta7352/Css-Battle/blob/main/27-Relative/169-Abstract-Plate.md)
+- [#170 - Party Hat](https://github.com/omgupta7352/Css-Battle/blob/main/27-Relative/170-Party-Hat.md)
 
 ## Battle #28 - Revert
 
