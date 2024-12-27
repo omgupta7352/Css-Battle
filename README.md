@@ -248,14 +248,14 @@ I try to solve [Cssbattle](https://cssbattle.dev/) problems easy way and here ar
 
 ## Battle #24 - Offset
 
-- [#143 - Simply Circle]()
-- [#144 - Long Heart]()
-- [#145 - Spotlight]()
-- [#146 - Streaks]()
-- [#147 - Splash]()
-- [#148 - Eight]()
-- [#149 - Earthworm]()
-- [#150 - Finger Heart]()
+- [#143 - Simply Circle](https://github.com/omgupta7352/Css-Battle/blob/main/24-Offset/143-Simply-Circle.md)
+- [#144 - Long Heart](https://github.com/omgupta7352/Css-Battle/blob/main/24-Offset/144-Long-Heart.md)
+- [#145 - Spotlight](https://github.com/omgupta7352/Css-Battle/blob/main/24-Offset/145-Spotlight.md)
+- [#146 - Streaks](https://github.com/omgupta7352/Css-Battle/blob/main/24-Offset/146-Streaks.md)
+- [#147 - Splash](https://github.com/omgupta7352/Css-Battle/blob/main/24-Offset/147-Splash.md)
+- [#148 - Eight](https://github.com/omgupta7352/Css-Battle/blob/main/24-Offset/148-Eight.md)
+- [#149 - Earthworm](https://github.com/omgupta7352/Css-Battle/blob/main/24-Offset/149-Earthworm.md)
+- [#150 - Finger Heart](https://github.com/omgupta7352/Css-Battle/blob/main/24-Offset/150-Finger-Heart.md)
 
 ## Battle #25 - Flex
 
