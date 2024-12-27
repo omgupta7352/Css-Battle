@@ -310,14 +310,14 @@ I try to solve [Cssbattle](https://cssbattle.dev/) problems easy way and here ar
 
 ## Battle #30 - Gradient
 
-- [#187 - Striped Triangle]()
-- [#188 - Icecream Sticks]()
-- [#189 - Triangle Hook]()
-- [#190 - Power Chip]()
-- [#191 - Modern Fence]()
-- [#192 - Abstract Firefly]()
-- [#193 - Galver]()
-- [#194 - Fountain]()
+- [#187 - Striped Triangle](https://github.com/omgupta7352/Css-Battle/blob/main/30-Gradient/187-Striped-Triangle.md)
+- [#188 - Icecream Sticks](https://github.com/omgupta7352/Css-Battle/blob/main/30-Gradient/188-Icecream-Sticks.md)
+- [#189 - Triangle Hook](https://github.com/omgupta7352/Css-Battle/blob/main/30-Gradient/189-Triangle-Hook.md)
+- [#190 - Power Chip](https://github.com/omgupta7352/Css-Battle/blob/main/30-Gradient/190-Power-Chip.md)
+- [#191 - Modern Fence](https://github.com/omgupta7352/Css-Battle/blob/main/30-Gradient/191-Modern-Fence.md)
+- [#192 - Abstract Firefly](https://github.com/omgupta7352/Css-Battle/blob/main/30-Gradient/192-Abstract-Plate.md)
+- [#193 - Galver](https://github.com/omgupta7352/Css-Battle/blob/main/30-Gradient/193-Galver.md)
+- [#194 - Fountain](https://github.com/omgupta7352/Css-Battle/blob/main/30-Gradient/194-Fountain.md)
 
 
 
