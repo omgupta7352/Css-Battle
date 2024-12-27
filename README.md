@@ -270,14 +270,14 @@ I try to solve [Cssbattle](https://cssbattle.dev/) problems easy way and here ar
 
 ## Battle #26 - Initial
 
-- [#159 - Portal]()
-- [#160 - Donut]()
-- [#161 - Converge]()
-- [#162 - Upwards]()
-- [#163 - Missing Piece]()
-- [#164 - Rangoli]()
-- [#165 - Pyramid]()
-- [#166 - Flow]()
+- [#159 - Portal](https://github.com/omgupta7352/Css-Battle/blob/main/26-Initial/159-Portal.md)
+- [#160 - Donut](https://github.com/omgupta7352/Css-Battle/blob/main/26-Initial/160-Donut.md)
+- [#161 - Converge](https://github.com/omgupta7352/Css-Battle/blob/main/26-Initial/161-Converge.md)
+- [#162 - Upwards](https://github.com/omgupta7352/Css-Battle/blob/main/26-Initial/162-Upwards.md)
+- [#163 - Missing Piece](https://github.com/omgupta7352/Css-Battle/blob/main/26-Initial/163-Missing-Piece.md)
+- [#164 - Rangoli](https://github.com/omgupta7352/Css-Battle/blob/main/26-Initial/164-Rangoli.md)
+- [#165 - Pyramid](https://github.com/omgupta7352/Css-Battle/blob/main/26-Initial/165-Pyramid.md)
+- [#166 - Flow](https://github.com/omgupta7352/Css-Battle/blob/main/26-Initial/166-Flow.md)
 
 ## Battle #27 - Relative
 
