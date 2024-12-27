@@ -288,14 +288,14 @@ I try to solve [Cssbattle](https://cssbattle.dev/) problems easy way and here ar
 
 ## Battle #28 - Revert
 
-- [#171 - Pumpkin]()
-- [#172 - Crossbones]()
-- [#173 - Hockey Mask]()
-- [#174 - Witch's Hat]
-- [#175 - Evil Cat]()
-- [#176 - Castlevania]()
-- [#177 - Frankenstein]()
-- [#178 - Candy]()
+- [#171 - Pumpkin](https://github.com/omgupta7352/Css-Battle/blob/main/28-Revert/171-Pumpkin.md)
+- [#172 - Crossbones](https://github.com/omgupta7352/Css-Battle/blob/main/28-Revert/172-Crossbones.md)
+- [#173 - Hockey Mask](https://github.com/omgupta7352/Css-Battle/blob/main/28-Revert/173-Hockey-Mask.md)
+- [#174 - Witch's Hat](https://github.com/omgupta7352/Css-Battle/blob/main/28-Revert/174-Witch's-Hat.md)
+- [#175 - Evil Cat](https://github.com/omgupta7352/Css-Battle/blob/main/28-Revert/175-Evil-Cat.md)
+- [#176 - Castlevania](https://github.com/omgupta7352/Css-Battle/blob/main/28-Revert/176-Castlevania.md)
+- [#177 - Frankenstein](https://github.com/omgupta7352/Css-Battle/blob/main/28-Revert/177-Frankenstein.md)
+- [#178 - Candy](https://github.com/omgupta7352/Css-Battle/blob/main/28-Revert/178-Candy.md)
 
 ## Battle #29 - Font
 
