@@ -33,7 +33,8 @@
   }
   [r]{width:180;
     height: 180px;
-    background: linear-gradient(to right, #FDFBF8 110px, #D669EC 110px 130px, #FDFBF8 0);clip-path:polygon(0 0,100% 50%,0 100%);
+    background: linear-gradient(to right, #FDFBF8 110px, #D669EC 110px 130px, #FDFBF8 0);
+    clip-path:polygon(0 0,100% 50%,0 100%);
 }
 </style>
 ```
