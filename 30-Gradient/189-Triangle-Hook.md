@@ -7,7 +7,8 @@
 ![target](https://cssbattle.dev/targets/189.png)
 
 ```html
-<div l></div><div m></div><div r><style>
+<div l></div><div m></div><div r>
+<style>
   body {
     background: #D669EC;
     display: flex;
@@ -32,5 +33,7 @@
   }
   [r]{width:180;
     height: 180px;
-    background: linear-gradient(to right, #FDFBF8 110px, #D669EC 110px 130px, #FDFBF8 0);clip-path:polygon(0 0,100% 50%,0 100%)
+    background: linear-gradient(to right, #FDFBF8 110px, #D669EC 110px 130px, #FDFBF8 0);clip-path:polygon(0 0,100% 50%,0 100%);
+}
+</style>
 ```
