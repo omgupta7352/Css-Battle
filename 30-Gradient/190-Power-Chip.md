@@ -8,7 +8,8 @@
 
 ```html
 <div></div>
-<div id="right"><style>
+<div id="right">
+<style>
   body {
     background: #E3516E;
     display: flex;
@@ -32,6 +33,9 @@
     border-left: 25px solid #FADE8B;
     border-right: 25px solid #FADE8B;
     border-bottom: 40px solid #E3516E}
-  div:after{background:#E3516E;width:20;height:50
+  div:after{background:#E3516E;
+    width:20px;
+    height:50px; }
+</style>
 ```
 
