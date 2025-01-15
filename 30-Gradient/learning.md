@@ -1,176 +1,303 @@
-# Battle #30 - Gradient
+# Battle #31 - Opacity
 
-## #191 - Modern Fence
+## #195 - Look Away
 
-[Link to the problem](https://cssbattle.dev/play/191)
+[Link to the problem](https://cssbattle.dev/play/195)
 
-![target](https://cssbattle.dev/targets/191.png)
+![target](https://cssbattle.dev/targets/195.png)
 
 ```html
-<div id="top"></div>
-<div id="center"></div>
-<div id="bottom"></div>
-<div id="left"></div>
-<div id="right"></div>
-<style>body{background:#2F2E59;display:grid;place-content:center;place-items:center;gap:46px}div{
-    width: 240px;
-    height: 20px;
-    background: #EEECF6;
-    border-radius: 10px;
-    rotate: 30deg;
-  }
-  #left, #right {
-    position: absolute;
-    rotate: 90deg;
-    width: 150px;
-  }
-  #right {
-    right: 12px;
-  }
-  #center {
-    width: 280px;
-  }
-  #left {
-    left: 12px;
-  }
-  #top {
-    translate: 11px 6.5px;
-  }
-  #bottom {
-    translate: -11px -6.5px;
-  }
-</style>
+
 ```
 
 
-# Battle #30 - Gradient
+# Battle #31 - Opacity
 
-## #192 - Abstract Firefly
+## #196 - Tree
 
-[Link to the problem](https://cssbattle.dev/play/192)
+[Link to the problem](https://cssbattle.dev/play/196)
 
-![target](https://cssbattle.dev/targets/192.png)
+![target](https://cssbattle.dev/targets/196.png)
 
 ```html
-<div></div>
-<style>
-  body {
-    background: #1D471D;
-    display: grid;
-    place-content: center;
-  }
-  div {
-    width: 280px;
-    height: 150px;
-    background: #CCE58E;
-    clip-path: polygon(33% 38%, 21% 42%, 0 0, 41.5% 11%, 50% 33%, 58.5% 11%, 100% 0, 79% 42%, 67% 38%, 69% 61%, 50% 100%, 31% 62%);
-  }
-</style>
+
 ```
 
 
-# Battle #30 - Gradient
+# Battle #31 - Opacity
 
-## #193 - Galver
+## #197 - Crystal
 
-[Link to the problem](https://cssbattle.dev/play/193)
+[Link to the problem](https://cssbattle.dev/play/197)
 
-![target](https://cssbattle.dev/targets/193.png)
+![target](https://cssbattle.dev/targets/197.png)
 
 ```html
-<div id="vertical"></div>
-<div id="horizontal"></div>
-<div id="pink"></div>
-<style>
-  body {
-    background: radial-gradient(circle, #8B0051 50px, #FCDDEB 50px 65px, #8B0051 65px 80px, #FCDDEB 80px);
-    display: grid;
-    place-items: center;
-  }
-  #vertical, #horizontal {
-    width: 30px;
-    height: 230px;
-    background: #8B0051;
-    position: absolute;
-    border-radius: 15px;
-    clip-path: polygon(0 0, 100% 0, 100% 7%, 50% 50%, 100% 93%, 100% 100%, 0 100%, 0 93%, 50% 50%, 0 7%);
-  }
-  #horizontal {
-    rotate: 90deg;
-  }
-  #pink {
-    width: 70px;
-    height: 70px;
-    background: radial-gradient(circle, transparent 20px, #F180B6 20px);
-    border-radius: 50%;
-    z-index: 1;
-  }
-</style>
+
 ```
 
 
-# Battle #30 - Gradient
+# Battle #31 - Opacity
 
-## #194 - Fountain
+## #198 - Walls
 
-[Link to the problem](https://cssbattle.dev/play/194)
+[Link to the problem](https://cssbattle.dev/play/198)
 
-![target](https://cssbattle.dev/targets/194.png)
+![target](https://cssbattle.dev/targets/198.png)
 
 ```html
-<div class="outer">
-  <div></div>
-</div>
-<div class="outer" id="bottomLeft">
-  <div></div>
-</div>
-<div class="outer" id="bottomRight">
-  <div></div>
-</div>
-<style>
-  body {
-    background: #4FA07B;
-    display: grid;
-    place-items: center;
-  }
-  div {
-    background: #4FA07B;
-    border-radius: 70px 70px 0px 0px;
-    border: 20px solid #0D1335;
-    border-bottom: none;
-  }
-  .outer {
-    position: absolute;
-    width: 100px;
-    height: 100px;
-    display: grid;
-    justify-content: center;
-    align-content: end;
-    translate: 0px -70px;
-  }
-  div > div {
-    width: 20px;
-    height: 60px;
-  }
-  #bottomLeft {
-    translate: -60px 30px;
-  }
-  #bottomRight {
-    translate: 60px 30px;
-  }
-  #bottomLeft:before, #bottomRight:before {
-    content: "";
-    display: block;
-    background: #4FA07B;
-    width: 20px;
-    height: 60px;
-  }
-  #bottomLeft:before {
-    translate: -40px 137px;
-    box-shadow: 40px -37px #0D1335, 80px -17px #0D1335, 120px 3px #0D1335, 160px -17px #0D1335, 200px -37px #0D1335;
-  }
-  #bottomRight:before {
-    translate: 80px 137px;
-  }
-</style>
+
+```
+
+# Battle #31 - Opacity
+
+## #199 - Antenna
+
+[Link to the problem](https://cssbattle.dev/play/199)
+
+![target](https://cssbattle.dev/targets/199.png)
+
+```html
+
+```
+
+# Battle #31 - Opacity
+
+## #200 - Lantern
+
+[Link to the problem](https://cssbattle.dev/play/200)
+
+![target](https://cssbattle.dev/targets/200.png)
+
+```html
+
+```
+
+# Battle #31 - Opacity
+
+## #201 - Triple Zero
+
+[Link to the problem](https://cssbattle.dev/play/201)
+
+![target](https://cssbattle.dev/targets/201.png)
+
+```html
+
+```
+
+# Battle #31 - Opacity
+
+## #202 - Steering Wheel
+
+[Link to the problem](https://cssbattle.dev/play/202)
+
+![target](https://cssbattle.dev/targets/202.png)
+
+```html
+
+```
+
+
+
+
+
+
+# Battle #32 - Animation
+
+## #203 - Wolverine
+
+[Link to the problem](https://cssbattle.dev/play/203)
+
+![target](https://cssbattle.dev/targets/203.png)
+
+```html
+
+```
+
+# Battle #32 - Animation
+
+## #204 - Deadpool
+
+[Link to the problem](https://cssbattle.dev/play/204)
+
+![target](https://cssbattle.dev/targets/204.png)
+
+```html
+
+```
+
+# Battle #32 - Animation
+
+## #205 - Magneto's helmet
+
+[Link to the problem](https://cssbattle.dev/play/205)
+
+![target](https://cssbattle.dev/targets/205.png)
+
+```html
+
+```
+
+# Battle #32 - Animation
+
+## #206 - Punisher
+
+[Link to the problem](https://cssbattle.dev/play/206)
+
+![target](https://cssbattle.dev/targets/206.png)
+
+```html
+
+```
+
+# Battle #32 - Animation
+
+## #207 - Green Lantern logo
+
+[Link to the problem](https://cssbattle.dev/play/207)
+
+![target](https://cssbattle.dev/targets/207.png)
+
+```html
+
+```
+
+# Battle #32 - Animation
+
+## #208 - Hulk First
+
+[Link to the problem](https://cssbattle.dev/play/208)
+
+![target](https://cssbattle.dev/targets/208.png)
+
+```html
+
+```
+
+# Battle #32 - Animation
+
+## #209 - Iron man
+
+[Link to the problem](https://cssbattle.dev/play/209)
+
+![target](https://cssbattle.dev/targets/209.png)
+
+```html
+
+```
+
+# Battle #32 - Animation
+
+## #210 - Black widow logo
+
+[Link to the problem](https://cssbattle.dev/play/210)
+
+![target](https://cssbattle.dev/targets/210.png)
+
+```html
+
+```
+
+
+
+
+
+
+
+
+
+# Battle #33 - Outline
+
+## #211 - CSS Weekly
+
+[Link to the problem](https://cssbattle.dev/play/211)
+
+![target](https://cssbattle.dev/targets/211.png)
+
+```html
+
+```
+
+# Battle #33 - Outline
+
+## #212 - Fibonacci peacock
+
+[Link to the problem](https://cssbattle.dev/play/212)
+
+![target](https://cssbattle.dev/targets/212.png)
+
+```html
+
+```
+
+# Battle #33 - Outline
+
+## #213 - Boat
+
+[Link to the problem](https://cssbattle.dev/play/213)
+
+![target](https://cssbattle.dev/targets/213.png)
+
+```html
+
+```
+
+# Battle #33 - Outline
+
+## #214 - Newspaper
+
+[Link to the problem](https://cssbattle.dev/play/214)
+
+![target](https://cssbattle.dev/targets/214.png)
+
+```html
+
+```
+
+# Battle #33 - Outline
+
+## #215 - Staggered checks
+
+[Link to the problem](https://cssbattle.dev/play/215)
+
+![target](https://cssbattle.dev/targets/215.png)
+
+```html
+
+```
+
+# Battle #33 - Outline
+
+## #216 - Pies
+
+[Link to the problem](https://cssbattle.dev/play/216)
+
+![target](https://cssbattle.dev/targets/216.png)
+
+```html
+
+```
+
+# Battle #33 - Outline
+
+## #217 - Maze
+
+[Link to the problem](https://cssbattle.dev/play/217)
+
+![target](https://cssbattle.dev/targets/217.png)
+
+```html
+
+```
+
+# Battle #33 - Outline
+
+## #218 - 3D
+
+[Link to the problem](https://cssbattle.dev/play/218)
+
+![target](https://cssbattle.dev/targets/218.png)
+
+```html
+
 ```
