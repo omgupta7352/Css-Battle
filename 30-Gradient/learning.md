@@ -7,7 +7,49 @@
 ![target](https://cssbattle.dev/targets/195.png)
 
 ```html
-
+<div></div>
+<h1></h1>
+<h1 a></h1>
+<h2></h2>
+<style>
+  body {
+    background: #131313;
+  }
+  div {
+    width: 240px;
+    height: 190px;
+    background: radial-gradient(
+        circle at 20px 105px,
+        #f459e3 150px,
+        transparent 100px
+      ), radial-gradient(1Q at 70px 110px, #e89a52 140px, #f9c96c 100px);
+    margin: 55 auto;
+    rotate: -15deg;
+    border-radius: 65px 65px 120px 120px;
+  }
+  h1 {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin: -180 92;
+    position: relative;
+    border: solid 15px #131313;
+    clip-path: polygon(0 50%, 100% 50%, 100% 100%, 0 100%);
+  }
+  [a] {
+    margin: 100 187;
+  }
+  h2 {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background: #131313;
+    position: relative;
+    margin: -148 92;
+    color: #131313;
+    box-shadow: 65px 0, 95px 0, 160px 0;
+  }
+</style>
 ```
 
 
@@ -20,7 +62,45 @@
 ![target](https://cssbattle.dev/targets/196.png)
 
 ```html
-
+<body bgcolor=90D3A6>
+<p a>
+<p b>
+<p c>
+<p d>
+<p e>
+<p f>
+<style>
+p{
+    width:70;
+    height:20;
+    border-radius:30px;
+    background:#024817;
+    position:fixed;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,268%)
+}
+[a]{
+    width:200
+}
+[b]{
+    height:180;
+    width:20;
+    transform:translate(-50%,-59%);
+}
+[c]{
+    transform:translate(-81%,-42%)rotate(30deg);
+}
+[d]{
+    transform:translate(-81%,-295%)rotate(30deg);
+}
+[e]{
+    transform:translate(-19%,-295%)rotate(-30deg);
+}
+[f]{
+    transform:translate(-19%,-44%)rotate(-30deg);
+}
+</style>
 ```
 
 
@@ -33,7 +113,40 @@
 ![target](https://cssbattle.dev/targets/197.png)
 
 ```html
+<p>
+<p a>
+<p b>
+<p c></p>
+<style>
+  * {
+    background: #5F133F;
+  }
 
+  p {
+    position: fixed;
+    width: 50;
+    height: 220;
+    background: linear-gradient(#F7BED9 32q, #F075B0 0 201q, #F7BED9 0);
+    clip-path: polygon(50%0, 100%13.6%, 100%86.3%, 50%100%, 0%86.3%, 0%13.6%);
+    margin: 32 167;
+  }
+
+  [a] {
+    rotate: 60deg;
+  }
+
+  [b] {
+    rotate: -60deg;
+  }
+
+  [c] {
+    height: 50;
+    width: 50;
+    border-radius: 50%;
+    background: #F7BED9;
+    margin: 117 167;
+  }
+</style>
 ```
 
 
@@ -46,7 +159,29 @@
 ![target](https://cssbattle.dev/targets/198.png)
 
 ```html
-
+<div></div>
+<h1></h1>
+<style>
+  * {
+    background: #6867d4;
+  }
+  div {
+    width: 50px;
+    height: 100px;
+    background: #7bafde;
+    transform: skew(0, 27deg);
+    margin: 112 -8;
+    box-shadow: 175px -127px 0 25px#7BAFDE, 175px -76px 0 25px#7BAFDE, 350px -203px #7bafde;
+  }
+  h1 {
+    width: 100px;
+    height: 100px;
+    background: #000039;
+    transform: skew(0, -27deg);
+    margin: -224 42;
+    box-shadow: 200px 102px #000039;
+  }
+</style>
 ```
 
 # Battle #31 - Opacity
