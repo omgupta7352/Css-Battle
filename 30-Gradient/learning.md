@@ -52,7 +52,6 @@
 </style>
 ```
 
-
 # Battle #31 - Opacity
 
 ## #196 - Tree
@@ -81,7 +80,7 @@ p{
     transform:translate(-50%,268%)
 }
 [a]{
-    width:200
+    width:200;
 }
 [b]{
     height:180;
