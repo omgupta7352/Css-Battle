@@ -102,7 +102,6 @@ p{
 </style>
 ```
 
-
 # Battle #31 - Opacity
 
 ## #197 - Crystal
@@ -147,7 +146,6 @@ p{
   }
 </style>
 ```
-
 
 # Battle #31 - Opacity
 
