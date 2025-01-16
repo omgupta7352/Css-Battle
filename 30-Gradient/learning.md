@@ -77,7 +77,7 @@ p{
     position:fixed;
     top:50%;
     left:50%;
-    transform:translate(-50%,268%)
+    transform:translate(-50%,268%);
 }
 [a]{
     width:200;
