@@ -6,6 +6,7 @@
 
 ![target](https://cssbattle.dev/targets/2.png)
 
+
 ```html
 <div class="wrapper">
   <div class="box top-left"></div>
