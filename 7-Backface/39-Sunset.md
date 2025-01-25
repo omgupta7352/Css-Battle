@@ -6,6 +6,7 @@
 
 ![target](https://cssbattle.dev/targets/39.png)
 
+
 ```html
 <div class="wrapper-sm">
   <div class="hide"></div>
