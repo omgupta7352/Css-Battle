@@ -6,6 +6,7 @@
 
 ![target](https://cssbattle.dev/targets/50.png)
 
+
 ```html
 <div class="liquid"></div>
 <div class="mouth"></div>
