@@ -6,6 +6,7 @@
 
 ![target](https://cssbattle.dev/targets/75.png)
 
+
 ```html
 <div class="ear left"></div>
 <div class="ear right"></div>
