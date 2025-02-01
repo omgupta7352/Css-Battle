@@ -6,6 +6,7 @@
 
 ![target](https://cssbattle.dev/targets/77.png)
 
+
 ```html
 <div class="steam-and-head"></div>
 <div class="beam"></div>
