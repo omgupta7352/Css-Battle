@@ -6,7 +6,6 @@
 
 ![target](https://cssbattle.dev/targets/87.png)
 
-
 ```html
 
 <div class="left"></div>
