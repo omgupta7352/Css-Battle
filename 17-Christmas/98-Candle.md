@@ -6,6 +6,7 @@
 
 ![target](https://cssbattle.dev/targets/98.png)
 
+
 ```html
 <div id="fire"></div>
 <div id="dark"></div>
