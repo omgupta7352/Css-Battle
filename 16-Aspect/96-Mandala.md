@@ -6,6 +6,7 @@
 
 ![target](https://cssbattle.dev/targets/96.png)
 
+
 ```html
 <style>
   body {
