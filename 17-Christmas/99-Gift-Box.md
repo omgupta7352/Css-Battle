@@ -6,6 +6,7 @@
 
 ![target](https://cssbattle.dev/targets/99.png)
 
+
 ```html
 <div id="leftKnot"></div>
 <div id="rightKnot"></div>
