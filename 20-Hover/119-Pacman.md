@@ -6,6 +6,7 @@
 
 ![target](https://cssbattle.dev/targets/119.png)
 
+
 ```html
 <div class="pac-man"></div>
 <div class="dot"></div>
