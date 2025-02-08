@@ -6,6 +6,7 @@
 
 ![target](https://cssbattle.dev/targets/118.png)
 
+
 ```html
 <div class="ladder"></div>
 <div class="girder top-bottom"></div>
