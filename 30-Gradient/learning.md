@@ -1,17 +1,5 @@
 # Battle #32 - Animation
 
-## #207 - Green Lantern logo
-
-[Link to the problem](https://cssbattle.dev/play/207)
-
-![target](https://cssbattle.dev/targets/207.png)
-
-```html
-
-```
-
-# Battle #32 - Animation
-
 ## #208 - Hulk First
 
 [Link to the problem](https://cssbattle.dev/play/208)
