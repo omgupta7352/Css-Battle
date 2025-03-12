@@ -1,17 +1,5 @@
 # Battle #32 - Animation
 
-## #208 - Hulk First
-
-[Link to the problem](https://cssbattle.dev/play/208)
-
-![target](https://cssbattle.dev/targets/208.png)
-
-```html
-
-```
-
-# Battle #32 - Animation
-
 ## #209 - Iron man
 
 [Link to the problem](https://cssbattle.dev/play/209)
