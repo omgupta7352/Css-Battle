@@ -1,17 +1,5 @@
 # Battle #32 - Animation
 
-## #209 - Iron man
-
-[Link to the problem](https://cssbattle.dev/play/209)
-
-![target](https://cssbattle.dev/targets/209.png)
-
-```html
-
-```
-
-# Battle #32 - Animation
-
 ## #210 - Black widow logo
 
 [Link to the problem](https://cssbattle.dev/play/210)
@@ -21,12 +9,6 @@
 ```html
 
 ```
-
-
-
-
-
-
 
 
 
