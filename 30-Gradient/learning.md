@@ -1,17 +1,3 @@
-# Battle #32 - Animation
-
-## #210 - Black widow logo
-
-[Link to the problem](https://cssbattle.dev/play/210)
-
-![target](https://cssbattle.dev/targets/210.png)
-
-```html
-
-```
-
-
-
 # Battle #33 - Outline
 
 ## #211 - CSS Weekly
