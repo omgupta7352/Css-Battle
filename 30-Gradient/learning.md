@@ -1,17 +1,5 @@
 # Battle #33 - Outline
 
-## #211 - CSS Weekly
-
-[Link to the problem](https://cssbattle.dev/play/211)
-
-![target](https://cssbattle.dev/targets/211.png)
-
-```html
-
-```
-
-# Battle #33 - Outline
-
 ## #212 - Fibonacci peacock
 
 [Link to the problem](https://cssbattle.dev/play/212)
