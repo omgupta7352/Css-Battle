@@ -1,17 +1,5 @@
 # Battle #33 - Outline
 
-## #212 - Fibonacci peacock
-
-[Link to the problem](https://cssbattle.dev/play/212)
-
-![target](https://cssbattle.dev/targets/212.png)
-
-```html
-
-```
-
-# Battle #33 - Outline
-
 ## #213 - Boat
 
 [Link to the problem](https://cssbattle.dev/play/213)
