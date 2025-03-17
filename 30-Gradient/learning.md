@@ -1,17 +1,5 @@
 # Battle #33 - Outline
 
-## #213 - Boat
-
-[Link to the problem](https://cssbattle.dev/play/213)
-
-![target](https://cssbattle.dev/targets/213.png)
-
-```html
-
-```
-
-# Battle #33 - Outline
-
 ## #214 - Newspaper
 
 [Link to the problem](https://cssbattle.dev/play/214)
