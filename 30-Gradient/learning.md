@@ -1,17 +1,5 @@
 # Battle #33 - Outline
 
-## #214 - Newspaper
-
-[Link to the problem](https://cssbattle.dev/play/214)
-
-![target](https://cssbattle.dev/targets/214.png)
-
-```html
-
-```
-
-# Battle #33 - Outline
-
 ## #215 - Staggered checks
 
 [Link to the problem](https://cssbattle.dev/play/215)
