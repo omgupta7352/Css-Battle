@@ -1,17 +1,5 @@
 # Battle #33 - Outline
 
-## #215 - Staggered checks
-
-[Link to the problem](https://cssbattle.dev/play/215)
-
-![target](https://cssbattle.dev/targets/215.png)
-
-```html
-
-```
-
-# Battle #33 - Outline
-
 ## #216 - Pies
 
 [Link to the problem](https://cssbattle.dev/play/216)
