@@ -1,17 +1,5 @@
 # Battle #33 - Outline
 
-## #217 - Maze
-
-[Link to the problem](https://cssbattle.dev/play/217)
-
-![target](https://cssbattle.dev/targets/217.png)
-
-```html
-
-```
-
-# Battle #33 - Outline
-
 ## #218 - 3D
 
 [Link to the problem](https://cssbattle.dev/play/218)
